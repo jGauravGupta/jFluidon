@@ -1,0 +1,29 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package org.netbeans.jfluidon.specification.library;
+
+import java.net.URL;
+
+/**
+ *
+ * @author gaurav
+ * @param <T>
+ */
+public interface ILibraryItem {
+
+    public String getSection();
+
+    public String getName();
+
+    public ILibrary getLibrary();
+
+    public ILibraryDocument instantiate();
+
+    public String getFxmlText();
+
+    public URL getIconURL();
+
+}

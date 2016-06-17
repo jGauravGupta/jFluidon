@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <category id="CONTAINERS" name="Containers">
+        <widget id="PANEL_GRID" name="Panel Grid" type="CUSTOMIZED" class="javafx.scene.layout.GridPane" />
+        <widget id="FORM" name="Form" type="REGION" class="javafx.scene.layout.Pane" />
+    </category>
+    <category id="CONTROLS" name="Controls">
+        <widget id="COMMANDBUTTON" name="Command Button" type="CUSTOMIZED" class="javafx.scene.control.Button" />
+        <widget id="COMMANDBUTTON" name="Graphic Image" type="CUSTOMIZED" class="javafx.scene.image.ImageView" />
+        <widget id="OUTPUTLABEL" name="Output Label" type="CUSTOMIZED" class="javafx.scene.control.Label" />
+        <widget id="INPUTTEXT" name="Input Text" type="DEFAULT" class="javafx.scene.control.TextField" />
+        <widget id="INPUTTEXTAREA" name="Input Textarea" type="REGION" class="javafx.scene.control.TextArea" />
+        <widget id="INPUTSECRET" name="Input Secret" type="DEFAULT" class="javafx.scene.control.PasswordField" />
+    </category>
+</library>

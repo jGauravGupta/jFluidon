@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: org.netbeans.fluidon.specification
+OpenIDE-Module-Localizing-Bundle: org/netbeans/fluidon/specification/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
